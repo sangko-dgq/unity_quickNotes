@@ -1,0 +1,21 @@
+
+
+AnimationEvent 的Object只能 绑定了Animator的人物，才能正确调用
+
+
+Player
+----model
+----Skill VisualEffectsGraph_prefab_M/A/B/C
+----Skill Point
+
+
+Player Inspector
+----Transform
+----Rigbody
+----Animator
+----Scripts  CharacterController/AnimationController/SkillVFXController
+
+
+
+
+Shader/ShaderGraph/VisualEffectsGraph 三者的区别和关系？

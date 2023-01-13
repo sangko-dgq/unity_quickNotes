@@ -1,0 +1,5 @@
+在Unity中打开"Player Settings"，在"Other Settings" 中有一个"Scripting Define Symbols"，在这里加入 UNITY_VFX_GRAPH_RENDERER_MOBILE。这样就可以在安卓平台上使用Visual Effect Graph了。
+
+还需要注意的是, 您需要使用Unity版本2019.3或更高版本，并且安装了Visual Effect Graph包才能在安卓平台上使用Visual Effect Graph。
+
+最后，重启项目即可。
